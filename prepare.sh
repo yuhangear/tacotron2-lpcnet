@@ -58,7 +58,7 @@ eval_tts_model=true                            # true: evaluate tts model, false
 wer=true                                       # true: evaluate CER & WER, false: evaluate only CER
 
 # root directory of db
-db_root=/media/mipitalk/home/zr511/espnet/egs/ljspeech/tts1
+db_root=./tts1_data
 
 # exp tag
 tag="merge_bert" # tag for managing experiments.
